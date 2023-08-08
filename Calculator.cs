@@ -11,7 +11,7 @@ namespace ColorfulCalculator
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine("╔═════════════════════════════════╗");
-                Console.WriteLine("║         Calculator      ║");
+                Console.WriteLine("║         Calculator              ║");
                 Console.WriteLine("╚═════════════════════════════════╝");
                 Console.ResetColor();
 
